@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="greeting-library-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/greeting-library/build/libs/greeting-library-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
